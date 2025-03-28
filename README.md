@@ -15,7 +15,7 @@ Please note that this is not an incentivized testnet.
 #### Seismic Official Links
 
 
-| Parameter | Type     |
+| Siesmic Devnet | Links     |
 | :-------- | :------- | 
 | Network Name | Seismic devnet |
 | Currency Symbol | ETH |
